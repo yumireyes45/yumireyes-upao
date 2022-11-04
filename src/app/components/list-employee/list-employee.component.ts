@@ -39,7 +39,7 @@ export class ListEmployeeComponent implements OnInit {
   deleteEmployee(id:number){
     this.employeeService.deleteEmployee(id).subscribe(()=>{
       this.dataSource.data=this.dataSource.data.filter((e:Employee)=>{
-        this.snackBar.open("Empleado eliminado",'',{
+        this.snackBar.open("Empleado eliminado GAAAAAAA NARUTO CABRO",'',{
           duration:3000,
         })
         return e.id!=id?e:false

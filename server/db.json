@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "Naruto",
+      "phone": "987564210",
+      "email": "naruto@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Yumi",
+      "phone": "65489451",
+      "email": "kgkgik@lol.com"
+    }
+  ]
+}

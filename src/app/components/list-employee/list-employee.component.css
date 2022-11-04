@@ -1,0 +1,21 @@
+/* Structure */
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  .table-wrapper {
+    padding: 20px;
+  }
+  
+  mat-icon{
+    display: contents;
+  }
+  
+  mat-list-item:hover mat-icon{
+    display: block;
+  }
